@@ -1,4 +1,4 @@
-mod sort;
+pub mod sort;
 
 #[cfg(test)]
 mod tests {
